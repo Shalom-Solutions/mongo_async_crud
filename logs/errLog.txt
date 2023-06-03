@@ -1,0 +1,14 @@
+20230529	18:17:24	6560c32b-2335-4fdb-a380-75c8684d87de	Error: Not allowed by CORS
+20230529	21:38:17	264447c6-0dfd-4a39-a24a-8dc2f2e5eb58	SyntaxError: Expected ',' or '}' after property value in JSON at position 41
+20230530	20:53:52	b55d517a-be0c-45ad-bb02-0d070280f5e8	SyntaxError: Unexpected token ';', ..."t1", "pwd"; "Aa$1234"... is not valid JSON
+20230531	14:12:26	95d03b6c-e0d9-4589-99ac-70a272ef77d0	Error: secretOrPrivateKey must have a value
+20230531	14:14:05	fdea8183-712a-4f2f-a8bf-0b9dc7262c30	Error: secretOrPrivateKey must have a value
+20230531	14:14:30	eda129ee-5881-4265-ad38-c0a61e359ca5	Error: secretOrPrivateKey must have a value
+20230601	14:04:34	8f7752a6-2f90-4e38-93c6-004c75da1f1a	TypeError: Cannot read properties of undefined (reading 'username')
+20230601	14:17:53	b1f20928-637f-4c61-a9a0-09fb4c3f45b9	TypeError: Cannot read properties of undefined (reading 'username')
+20230601	14:51:08	7217300e-5b0f-4d73-b540-a7ced644eedd	TypeError: Cannot read properties of undefined (reading 'username')
+20230601	15:40:05	78c5fd62-b9d6-490c-a8f4-50646e009011	TypeError: Cannot read properties of undefined (reading 'username')
+20230601	15:49:24	0ba5ed34-1d67-49f0-a80a-8939d8c68d36	TypeError: Cannot read properties of undefined (reading 'username')
+20230601	15:55:39	626ed19f-0e4f-4d06-97d9-1c0bf1a73a6e	TypeError: Cannot read properties of undefined (reading 'username')
+20230601	15:55:41	21d552bc-c5f4-47dd-9445-2b14c1b07762	TypeError: Cannot read properties of undefined (reading 'username')
+20230601	16:13:40	7026c81e-d8d9-4840-b625-2d4059030bae	TypeError: next.UserInfo is not a function
